@@ -53,3 +53,4 @@ else{
 				window.location.assign('credit.html');
 			}
 		}
+//*******
